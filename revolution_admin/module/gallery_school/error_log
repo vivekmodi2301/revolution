@@ -1,0 +1,1 @@
+[04-Feb-2018 17:37:40 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nyaydeep/public_html/revolution/revolution_admin/system/php/function.php on line 32

@@ -1,0 +1,9 @@
+[04-Feb-2018 11:48:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nyaydeep/public_html/revolution/include/php/function.php on line 26
+[11-Mar-2018 12:15:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nyaydeep'@'localhost' (using password: YES) in /home2/nyaydeep/public_html/revolution/include/php/function.php on line 2
+[11-Mar-2018 12:15:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nyaydeep'@'localhost' (using password: YES) in /home2/nyaydeep/public_html/revolution/include/php/function.php on line 21
+[11-Mar-2018 12:15:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/nyaydeep/public_html/revolution/include/php/function.php on line 24
+[11-Mar-2018 12:15:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/nyaydeep/public_html/revolution/include/php/function.php on line 26
+[11-Mar-2018 12:28:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nyaydeep'@'localhost' (using password: YES) in /home2/nyaydeep/public_html/revolution/include/php/function.php on line 2
+[11-Mar-2018 12:28:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'nyaydeep'@'localhost' (using password: YES) in /home2/nyaydeep/public_html/revolution/include/php/function.php on line 21
+[11-Mar-2018 12:28:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/nyaydeep/public_html/revolution/include/php/function.php on line 24
+[11-Mar-2018 12:28:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home2/nyaydeep/public_html/revolution/include/php/function.php on line 26
